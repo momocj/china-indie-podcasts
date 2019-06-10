@@ -7,11 +7,11 @@
    "url": "https://zhiyi.life/",
    "feed": "https://zhiyi.life/feed.xml",
    "apple": "https://podcasts.apple.com/cn/podcast/%E6%89%A7%E5%BC%82/id1441907062",
-   "google": {},
-   "spotify": {},
-   "overcast": {},
-   "pcast": {},
+   "google": null,
+   "spotify":null,
+   "overcast": null,
+   "pcast": null,
    "castro": "https://castro.fm/podcast/c2f52dbf-637e-4321-a74e-55647b664022",
-   "breaker": {},
+   "breaker": null,
    "typlog": false
 }
